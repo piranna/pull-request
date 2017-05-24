@@ -5,7 +5,7 @@
   "keywords": [],
   "dependencies": {
     "github-basic": "~2.1.0",
-    "ms": "~0.6.2",
+    "ms": "~2.0.0",
     "promise": "~4.0.0"
   },
   "devDependencies": {
